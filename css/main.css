@@ -11,3 +11,38 @@ div {
   padding: .5rem;
   text-align: center;
 }
+
+
+.btn {
+  background-color: #333;
+  text-decoration: none;
+  border-style: solid;
+  border-radius: 8px;
+  border-width: 3px;
+  padding: .4em .75em .3em;
+  font-size: 1.125rem;
+  color: #fff;
+
+}
+
+.grey {
+  background-color: #ccc;
+}
+
+.white {
+  background-color: #fff;
+  color: #333;
+  border-color: #333;
+}
+
+.red {
+  background-color: #f33;
+}
+
+.small {
+  font-size: .875rem;
+}
+
+.big {
+  font-size: 1.5rem;
+}
